@@ -4,7 +4,7 @@ I make music using computer chips AKA chiptune
 
 I love cats
 
-![pogpog](https://c.tenor.com/U4lIQSbkMrYAAAAi/pogfish.gif) ![catcat](https://c.tenor.com/k__Q6orBSb0AAAAi/kiss-cat-smelling-cat.gif) ![mauro](https://c.tenor.com/QEXlUL2IoagAAAAi/hug-%C3%A7orap.gif)
+![pogpog](https://c.tenor.com/U4lIQSbkMrYAAAAi/pogfish.gif) ![catcat](https://c.tenor.com/k__Q6orBSb0AAAAi/kiss-cat-smelling-cat.gif) ![mauro](https://c.tenor.com/QEXlUL2IoagAAAAj/hug-%C3%A7orap.gif)
 
 <!---
 amiacat/amiacat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
